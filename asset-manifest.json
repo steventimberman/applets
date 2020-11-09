@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/applets/static/js/main.1ed711cc.chunk.js",
+    "main.js.map": "/applets/static/js/main.1ed711cc.chunk.js.map",
+    "runtime-main.js": "/applets/static/js/runtime-main.b347368f.js",
+    "runtime-main.js.map": "/applets/static/js/runtime-main.b347368f.js.map",
+    "static/js/2.a7cb71fd.chunk.js": "/applets/static/js/2.a7cb71fd.chunk.js",
+    "static/js/2.a7cb71fd.chunk.js.map": "/applets/static/js/2.a7cb71fd.chunk.js.map",
+    "index.html": "/applets/index.html",
+    "precache-manifest.cc3e4580fe2f39050bb104e7a32cd44b.js": "/applets/precache-manifest.cc3e4580fe2f39050bb104e7a32cd44b.js",
+    "service-worker.js": "/applets/service-worker.js",
+    "static/js/2.a7cb71fd.chunk.js.LICENSE.txt": "/applets/static/js/2.a7cb71fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b347368f.js",
+    "static/js/2.a7cb71fd.chunk.js",
+    "static/js/main.1ed711cc.chunk.js"
+  ]
+}
